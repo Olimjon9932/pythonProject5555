@@ -132,7 +132,7 @@ bbc = ReplyKeyboardMarkup(
             KeyboardButton(text="Plastikdan pul o'g'rilik qilayotgan firibgarlar")
         ],
         [
-            KeyboardButton(text="Alloh buyuk qudratini ko’rsatish uchun Iso alayxissalomni otasiz dunyoga keltirgan")
+            KeyboardButton(text="Taqvo qilaman deb ayolingizga zulm qilmang")
         ],
         [
             KeyboardButton(text="Ota Onanga yaxshilik qil")
@@ -147,6 +147,9 @@ bbc = ReplyKeyboardMarkup(
             KeyboardButton(text="Allohni roziligi Ota Onani roziligidadur")
         ],
         [
+            KeyboardButton(text="Ayollar mahrami bilan safarga chiqsin!")
+        ],
+        [
             KeyboardButton(text="Dasturxon solib ehson qilishni kamaytiring")
         ],
         [
@@ -157,6 +160,21 @@ bbc = ReplyKeyboardMarkup(
         ],
         [
             KeyboardButton(text="Vafot etgan Ota Onamizga qaysi amalni qilsak savobi boradi")
+        ],
+        [
+            KeyboardButton(text="O'g'il bola ne'mat Qiz bola rahmat")
+        ],
+        [
+            KeyboardButton(text="Islomdan avval Ayollarning qadri qanday bo'lgan")
+        ],
+        [
+            KeyboardButton(text="Qachon birlashamiz?")
+        ],
+        [
+            KeyboardButton(text="Bolani bo’sh vaqti Dushmanni ish vaqti")
+        ],
+        [
+            KeyboardButton(text="Bu Zikrning kuchini bilganingizda edi 10 marta emas, 1000 marta aytardingiz")
         ],
         [
             KeyboardButton(text="👈Orqaga qaytish")

@@ -7,7 +7,7 @@ from loader import dp
 
 @dp.message_handler(commands='start')
 async def bot_start(message: types.Message):
-    await message.reply_photo(photo="https://t.me/salom9899/13",caption="""➖➖➖➖➖➖➖➖➖➖ 
+    await message.answer_photo(photo="https://t.me/salom9899/13",caption="""➖➖➖➖➖➖➖➖➖➖ 
 "Assalomu alaykum va Rohmatullohi va Barokatuh😊         
 ➖➖➖➖➖➖➖➖➖➖         
 Do'stlar ushbu Quron Oyatlari barchamizni dilimizni ochadi🌸        

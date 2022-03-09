@@ -7,7 +7,7 @@ tttt = InlineKeyboardMarkup(
             InlineKeyboardButton(text="😍KANAL😍", url="https://t.me/Muxabbatimsizz"),
         ],
         [
-            InlineKeyboardButton(text="❤ULASHISH❤", switch_inline_query="\n😍☝☝☝☝😍"),
+            InlineKeyboardButton(text="❤ULASHISH❤", switch_inline_query="\n🤲🕋🕋🕋🕋🕋🤲"),
         ],
 
     ],

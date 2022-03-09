@@ -3,7 +3,7 @@ from aiogram.types import KeyboardButton,ReplyKeyboardMarkup
 besh= ReplyKeyboardMarkup(
     keyboard=[
         [
-           KeyboardButton(text="81.At-Takvir"),
+            KeyboardButton(text="81.At-Takvir"),
             KeyboardButton(text="82.Al-Infitar"),
             KeyboardButton(text="83.Al-Mutaffifin"),
             KeyboardButton(text="84.Al-Inshiqaq"),
@@ -11,7 +11,7 @@ besh= ReplyKeyboardMarkup(
         [
             KeyboardButton(text="85.Al-Buruj"),
             KeyboardButton(text="86.At-Tariq"),
-           KeyboardButton(text="87.Al-Ala"),
+            KeyboardButton(text="87.Al-Ala"),
             KeyboardButton(text="88.Al-Ghashiyah"),
         ],
         [

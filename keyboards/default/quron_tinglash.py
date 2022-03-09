@@ -3,15 +3,15 @@ from aiogram.types import KeyboardButton,ReplyKeyboardMarkup
 absd = ReplyKeyboardMarkup(
     keyboard=[
         [
-           KeyboardButton(text="1.Al-Fotiha"),
-           KeyboardButton(text="2.Al-Baqara"),
+            KeyboardButton(text="1.Al-Fotiha"),
+            KeyboardButton(text="2.Al-Baqara"),
             KeyboardButton(text="3.Al-Oli imron"),
             KeyboardButton(text="4.Al-Niso"),
         ],
         [
             KeyboardButton(text="5.Al-Moida"),
             KeyboardButton(text="6.Al-AN'OM"),
-           KeyboardButton(text="7.Al-A'rof"),
+            KeyboardButton(text="7.Al-A'rof"),
             KeyboardButton(text="8.Al-Anfol"),
         ],
         [

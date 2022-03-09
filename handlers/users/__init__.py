@@ -20,4 +20,5 @@ from . import uchinchi_din
 from . import tortinchi_din
 from . import beshinchi_din
 from . import oltinchi_din
+from . import Allohning_ismlari
 from . import echo

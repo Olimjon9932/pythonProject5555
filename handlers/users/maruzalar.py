@@ -184,9 +184,13 @@ async def bot_echo(message:types.Message):
 async def bot_echo(message:types.Message):
     await message.reply_video(video="https://t.me/salom9899/191", caption="🎙 Shukurulloh Domla\n\nPlastikdan pul o'g'rilik qilayotgan firibgarlar")
 
-@dp.message_handler(text="Alloh buyuk qudratini ko'rsatish uchun Iso alayxissalomni otasiz dunyoga keltirgan")
+@dp.message_handler(text="Taqvo qilaman deb ayolingizga zulm qilmang")
 async def bot_echo(message:types.Message):
-    await message.reply_video(video="https://t.me/salom9899/192", caption="🎙 Shukurulloh Domla\n\nAlloh buyuk qudratini ko'rsatish uchun Iso alayxissalomni otasiz dunyoga keltirgan")
+    await message.reply_video(video="https://t.me/salom9899/236", caption="🎙 Shukurulloh Domla\n\nTaqvo qilaman deb ayolingizga zulm qilmang")
+
+@dp.message_handler(text="Ayollar mahrami bilan safarga chiqsin!")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/237", caption="🎙 Shukurulloh Domla\n\nAyollar mahrami bilan safarga chiqsin")
 
 @dp.message_handler(text="Ota Onanga yaxshilik qil")
 async def bot_echo(message:types.Message):
@@ -220,8 +224,25 @@ async def bot_echo(message:types.Message):
 async def bot_echo(message:types.Message):
     await message.reply_video(video="https://t.me/salom9899/234", caption="🎙 Shukurulloh Domla\n\nIslomda ayollarga munosabat")
 
+@dp.message_handler(text="O'g'il bola ne'mat Qiz bola rahmat")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/246", caption="🎙 Shukurulloh Domla\n\nO'g'il bola ne'mat Qiz bola rahmat")
 
+@dp.message_handler(text="Islomdan avval Ayollarning qadri qanday bo'lgan")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/247", caption="🎙 Shukurulloh Domla\n\nIslomdan avval Ayollarning qadri qanday bo'lgan")
 
+@dp.message_handler(text="Qachon birlashamiz?")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/248", caption="🎙 Shukurulloh Domla\n\nQachon birlashamiz?")
+
+@dp.message_handler(text="Bolani bo’sh vaqti Dushmanni ish vaqti")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/249", caption="🎙 Shukurulloh Domla\n\nBolani bo’sh vaqti Dushmanni ish vaqti")
+
+@dp.message_handler(text="Bu Zikrning kuchini bilganingizda edi 10 marta emas, 1000 marta aytardingiz")
+async def bot_echo(message:types.Message):
+    await message.reply_video(video="https://t.me/salom9899/250", caption="🎙 Shukurulloh Domla\n\nBu Zikrning kuchini bilganingizda edi 10 marta emas, 1000 marta aytardingiz")
 
 
 @dp.message_handler(text="👈Orqaga qaytish")

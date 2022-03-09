@@ -7,5 +7,6 @@ from . import tortinchi_qism
 from . import beshinchi_qism
 from . import oltinchi_qism
 from . import diniy_kalima
+from . import Alloh_ismlari
 from . import maruzalar
 

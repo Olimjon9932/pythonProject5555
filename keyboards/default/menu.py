@@ -12,7 +12,7 @@ tugma = ReplyKeyboardMarkup(
             KeyboardButton(text="📖NAMOZ O'QISH📖"),
         ],
         [
-            KeyboardButton(text="🎧QURON TINGLASH🎧"),
+            KeyboardButton(text="🕋ALLOHNING GO'ZAL ISMLARI🤲"),
         ],
         [
             KeyboardButton(text="🤲NAMOZ KITOBI🤲"),
@@ -24,7 +24,11 @@ tugma = ReplyKeyboardMarkup(
             KeyboardButton(text="📚SAODAT ASRI QISSALARI  KITOBI📚"),
         ],
         [
-            KeyboardButton(text="🕋QURON KITOB🕋")
+            KeyboardButton(text="🕋QURON KITOB🕋"),
+        ],
+
+        [
+            KeyboardButton(text="🎧QURON TINGLASH🎧")
         ]
     ],
     resize_keyboard=True

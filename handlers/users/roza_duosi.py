@@ -6,7 +6,7 @@ from loader import dp
 # Echo bot
 @dp.message_handler(text="💫RO'ZA DUOSI💫")
 async def bot_echo(message: types.Message):
-    await message.reply_photo(photo="https://www.savol-javob.com/wp-content/uploads/2020/05/5afc53b68687c.jpg",caption="""Ro'zada og'iz yopish va ochish duolari:     
+    await message.answer_photo(photo="https://www.savol-javob.com/wp-content/uploads/2020/05/5afc53b68687c.jpg",caption="""Ro'zada og'iz yopish va ochish duolari:     
 \nRo'za tutish - Og'iz yopish duosi:
 Navaytu an asuma sovma shahri romazona minal fajri ilal mag‘ribi, xolisan lillahi ta’ala. Allohu akbar.
 \nManosi: Ramazon oyining rozasini subhdan to kun botguncha tutmoqni niyat qildim. Xolis Alloh uchun.Alloh Buyukdir.

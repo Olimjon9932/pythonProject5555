@@ -3,7 +3,7 @@ from aiogram.types import KeyboardButton,ReplyKeyboardMarkup
 tort= ReplyKeyboardMarkup(
     keyboard=[
         [
-           KeyboardButton(text="61.Al-Sof"),
+            KeyboardButton(text="61.Al-Sof"),
             KeyboardButton(text="62.Al-Jum'a"),
             KeyboardButton(text="63.Al-Munofiqun"),
             KeyboardButton(text="64.Al-Tag'obun"),
@@ -11,7 +11,7 @@ tort= ReplyKeyboardMarkup(
         [
             KeyboardButton(text="65.Al-Taloq"),
             KeyboardButton(text="66.Al-Tahrim"),
-           KeyboardButton(text="67.Al-Mulk"),
+            KeyboardButton(text="67.Al-Mulk"),
             KeyboardButton(text="68.Al-Qalam"),
         ],
         [
